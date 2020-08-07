@@ -1,0 +1,20 @@
+.game {
+    height: 400px;
+    width: 500px;
+}
+
+.character {
+    background-color: red;
+    height: 70px;
+    width: 40px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.character-sliding {
+    background-color: red;
+    height: 40px;
+    width: 70px;
+    position: absolute;
+    bottom: 0px;
+}
