@@ -4,7 +4,7 @@ A simple function for jumping and sliding in games
 
 ### MIT Licence
 
-Copyright (c) {{ 2020 }} {{ Ania Kubow }}
+Copyright (c) 2020 Ania Kubow
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
